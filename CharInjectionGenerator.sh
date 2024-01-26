@@ -7,7 +7,7 @@ shell_name="shell"
 special_chars=('%20' '%0a' '%00' '%0d0a' '/' '.\\' '.' '…' ':')
 # This can be modified to contain different extensions.
 extensions=('.php' '.phps' '.phptml' '.phar' '.php.inc' '.php-dis')
-# This can be dropped to single entries if we know valid image type.
+# This can be dropped to single entries if we know valid extension type.
 valid_extensions=('jpg' 'png' 'gif' 'bmp' 'svg')
 
 # Loop over each special character
